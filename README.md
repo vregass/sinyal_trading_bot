@@ -1,0 +1,1 @@
+# sinyal_trading_bot
